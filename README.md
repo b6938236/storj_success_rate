@@ -8,12 +8,12 @@ This script will likely work on Windows, but the text coloring will be interpret
 
 ## How to use it
 
-chmod +x successrate.py
-./successrate.py
-or
-python successrate.py
-or
-python3 successrate.py
+chmod +x successrate.py  
+./successrate.py  
+or  
+python successrate.py  
+or  
+python3 successrate.py  
 
 Usage is otherwise identical to [successrate.sh](https://github.com/ReneSmeekes/storj_success_rate).
 
